@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1523665919 source:c:\users\cliente\desktop\backup\programação em c++\roteiro 3\q2\invoice.cpp
+	"Invoice.h"
+	<iostream>
+
+1523665784 c:\users\cliente\desktop\backup\programação em c++\roteiro 3\q2\invoice.h
+	<string>
+
+1523666569 source:c:\users\cliente\desktop\backup\programação em c++\roteiro 3\q2\main.cpp
+	<iostream>
+	"Invoice.h"
+
